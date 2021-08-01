@@ -6,11 +6,7 @@
 
 </strong>
 
-Consider an infinitesimal element of the plate in polar coordinates as shown in Fig. 1.1. In this figure the radial moment M<sub>r</sub>, tangential moment M<sub>&#952;</sub>, twisting moments M<sub>r&#952;</sub> and M<sub>r</sub>, and the transverse shear forces Q<sub>r</sub> and Q<sub>&#952;</sub>, are shown on the positive and negative edges of the element.
-
-The equations of motion of the plate can be derived in polar coordinates by considering the
-dynamic equilibrium of the element shown in Fig. 1.1 as follows: Moment equilibrium about the
-tangential (&#952;) direction:
+Consider an infinitesimal element of the plate in polar coordinates as shown in Fig. 1.1. In this figure the radial moment M<sub>r</sub>, tangential moment M<sub>&#952;</sub>, twisting moments M<sub>r&#952;</sub> and M<sub>&#952;r</sub>, and the transverse shear forces Q<sub>r</sub> and Q<sub>&#952;</sub>, are shown on the positive and negative edges of the element. The equations of motion of the plate can be derived in polar coordinates by considering the dynamic equilibrium of the element shown in Fig. 1.1 as follows: Moment equilibrium about the tangential (&#952;) direction:
 
 <img src="images/th1.png" draggable="false">
 
@@ -25,7 +21,7 @@ Force equilibrium in the z direction:
 <img src="images/th4.png" draggable="false">
 
 Equations (1.1)-(1.3) can be combined to derive a single equation of motion in terms of the
-moment resultants M<sub>r</sub>, M<sub>&#952;</sub>, and M<sub>r&#952;</sub>,By substituting the moment resultants in terms of the
+moment resultants M<sub>r</sub>, M<sub>&#952;</sub>, and M<sub>r&#952;</sub>, By substituting the moment resultants in terms of the
 transverse displacement w, the final equation of motion, shown in Eq. (1.16), can be obtained.
 
 
@@ -76,7 +72,8 @@ of a circular plate can be expressed as
 
 <img src="images/th13.png" draggable="false">
 
-1.3 Moment and Force Resultants
+<b>1.3 Moment and Force Resultants</b>
+
 Using the transformation procedure, the moment resultant - transverse displacement relations can
 be obtained as:
 
@@ -92,7 +89,9 @@ The effective transverse shear forces can be written as
 
 Note that the Laplacian operator appearing in Eqs. (1.20) - (1.23) is given in polar coordinates by
 Eq. (1.14).
-1.4 Boundary Conditions
+
+<b>1.4 Boundary Conditions</b>
+
 1. Clamped, fixed, or built-in edge. The deflection and slope (normal to the boundary) must be
 zero:
 
