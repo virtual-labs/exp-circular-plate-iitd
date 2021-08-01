@@ -1,1 +1,1 @@
-## Free Vibration of the circular plate
+## Free vibration of the circular plate
